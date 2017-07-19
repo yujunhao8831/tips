@@ -10,6 +10,10 @@ https://github.com/521xueweihan/git-tips
 + java 8 
   https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/
   http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
-+ shell https://github.com/Idnan/bash-guide
 + 反射工具 https://github.com/ronmamo/reflections
 + restful https://github.com/aisuhua/restful-api-design-references
++ RESTful文档管理 https://apiary.io/
++ api设计 https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
+
+## shell 
+https://github.com/Idnan/bash-guide
