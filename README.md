@@ -14,6 +14,10 @@ https://github.com/521xueweihan/git-tips
 + restful https://github.com/aisuhua/restful-api-design-references
 + RESTful文档管理 https://apiary.io/
 + api设计 https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
++ JWT http://www.jianshu.com/p/576dbf44b2ae
+
+## 前端
++ 库 https://www.awesomes.cn/
 
 ## shell 
 https://github.com/Idnan/bash-guide
