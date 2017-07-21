@@ -15,9 +15,10 @@ https://github.com/521xueweihan/git-tips
 + RESTful文档管理 https://apiary.io/
 + api设计 https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
 + JWT http://www.jianshu.com/p/576dbf44b2ae
-
++ 编程闯关、完成挑战 https://freecodecamp.cn/
 ## 前端
 + 库 https://www.awesomes.cn/
++ 筛子 https://github.com/xori/gamblers-dice
 
 ## shell 
 https://github.com/Idnan/bash-guide
