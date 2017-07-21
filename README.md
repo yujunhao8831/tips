@@ -10,16 +10,58 @@ https://github.com/521xueweihan/git-tips
 + java 8 
   https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/
   http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
+  https://segmentfault.com/q/1010000005054853
+  http://www.codeyyy.com/java/index.html
 + 反射工具 https://github.com/ronmamo/reflections
-+ restful https://github.com/aisuhua/restful-api-design-references
-+ RESTful文档管理 https://apiary.io/
++ restful 
+  https://github.com/aisuhua/restful-api-design-references
+  https://www.oschina.net/translate/restful-api-designing-guidelines-the-best-practices?lang=chs&page=1#
+  http://5.course.uprogrammer.cn/restful-with-spring-cn/chapter1/section3.html
++ RESTful文档管理 https://apiary.io/ 
 + api设计 https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
-+ JWT http://www.jianshu.com/p/576dbf44b2ae
++ JWT 
+http://www.jianshu.com/p/576dbf44b2ae
+https://segmentfault.com/q/1010000004537698
+http://blog.csdn.net/a82793510/article/details/53509427
+http://blog.csdn.net/carrie__yang/article/details/72867962
+http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/
+
++ spring 
+  https://my.oschina.net/u/3080373/blog/1438733
+
 + 编程闯关、完成挑战 https://freecodecamp.cn/
 + spring boot https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/
++ 设计模式 https://github.com/iluwatar/java-design-patterns
++ 图片 http://square.github.io/pollexor/
++ 图形化代码生成器 https://github.com/astarring/mybatis-generator-gui
++ 秒杀分析 https://my.oschina.net/xianggao/blog/524943
++ 排错工具 https://yq.aliyun.com/articles/69520?&utm_campaign=sys&utm_medium=market&utm_source=edm_email&msctype=email&mscareaid=cn&mscsiteid=cn&mscmsgid=7130117022400821388&
++ 垃圾回收 http://www.infoq.com/cn/news/2017/03/garbage-collection-algorithm?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage
++ log https://logback.qos.ch/manual/mdc.html#autoMDC
++ spring cloud http://www.itmuch.com/spring-cloud-sum-eureka/
++ 权限框架比较 http://www.oschina.net/question/1261086_228410
++ https://github.com/jobbole/awesome-java-cn#ancients
++ String https://www.zhihu.com/question/20101840
++ 学习资料 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#mysql
+
 ## 前端
 + 库 https://www.awesomes.cn/
 + 筛子 https://github.com/xori/gamblers-dice
-
++ 全栈 http://growth.phodal.com/
++ 前后分离 https://segmentfault.com/a/1190000009329474?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly
 ## shell 
 https://github.com/Idnan/bash-guide
+https://segmentfault.com/a/1190000002564816
+
+## 面试资料
++ 面试资料 https://my.oschina.net/hosee/blog/652410
++ https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
+https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md
+## git
+https://segmentfault.com/a/1190000008091986
+
+## 优质翻译
+https://github.com/xitu/gold-miner
+
+## IDE
++ https://github.com/judasn/IntelliJ-IDEA-Tutorial
