@@ -30,7 +30,6 @@ http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/
   https://my.oschina.net/u/3080373/blog/1438733
 
 + 编程闯关、完成挑战 https://freecodecamp.cn/
-+ spring boot https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/
 + 设计模式 https://github.com/iluwatar/java-design-patterns
 + 图片 http://square.github.io/pollexor/
 + 图形化代码生成器 https://github.com/astarring/mybatis-generator-gui
@@ -42,6 +41,9 @@ http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/
 + 权限框架比较 http://www.oschina.net/question/1261086_228410
 + https://github.com/jobbole/awesome-java-cn#ancients
 + String https://www.zhihu.com/question/20101840
++ spring boot 
+  https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/
+  后台运行配置 http://blog.didispace.com/spring-boot-run-backend/
 + 学习资料 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#mysql
 
 ## 前端
