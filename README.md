@@ -6,25 +6,25 @@ https://github.com/521xueweihan/git-tips
 + User-agent-utils http://www.bitwalker.eu/
 + 杂项 https://github.com/pzxwhc/MineKnowContainer
 + swagger 文档 
-  https://github.com/swagger-api/swagger-core/wiki/Annotations#apimodel http://springfox.github.io/springfox/docs/current/
+  - https://github.com/swagger-api/swagger-core/wiki/Annotations#apimodel http://springfox.github.io/springfox/docs/current/
 + java 8 
-  https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/
-  http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
-  https://segmentfault.com/q/1010000005054853
-  http://www.codeyyy.com/java/index.html
+  - https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/
+  - http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
+  - https://segmentfault.com/q/1010000005054853
+  - http://www.codeyyy.com/java/index.html
 + 反射工具 https://github.com/ronmamo/reflections
 + restful 
-  https://github.com/aisuhua/restful-api-design-references
-  https://www.oschina.net/translate/restful-api-designing-guidelines-the-best-practices?lang=chs&page=1#
-  http://5.course.uprogrammer.cn/restful-with-spring-cn/chapter1/section3.html
+  - https://github.com/aisuhua/restful-api-design-references
+  - https://www.oschina.net/translate/restful-api-designing-guidelines-the-best-practices?lang=chs&page=1#
+  - http://5.course.uprogrammer.cn/restful-with-spring-cn/chapter1/section3.html
 + RESTful文档管理 https://apiary.io/ 
 + api设计 https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
 + JWT 
-http://www.jianshu.com/p/576dbf44b2ae
-https://segmentfault.com/q/1010000004537698
-http://blog.csdn.net/a82793510/article/details/53509427
-http://blog.csdn.net/carrie__yang/article/details/72867962
-http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/
+- http://www.jianshu.com/p/576dbf44b2ae
+- https://segmentfault.com/q/1010000004537698
+- http://blog.csdn.net/a82793510/article/details/53509427
+- http://blog.csdn.net/carrie__yang/article/details/72867962
+- http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/
 
 + spring 
   https://my.oschina.net/u/3080373/blog/1438733
@@ -53,13 +53,13 @@ http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/
 + 全栈 http://growth.phodal.com/
 + 前后分离 https://segmentfault.com/a/1190000009329474?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly
 ## shell 
-https://github.com/Idnan/bash-guide
-https://segmentfault.com/a/1190000002564816
+  - https://github.com/Idnan/bash-guide
+  - https://segmentfault.com/a/1190000002564816
 
 ## 面试资料
 + 面试资料 https://my.oschina.net/hosee/blog/652410
 + https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
-https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md
++ https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md
 ## git
 https://segmentfault.com/a/1190000008091986
 
