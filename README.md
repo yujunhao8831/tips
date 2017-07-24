@@ -42,6 +42,7 @@ http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/
 + https://github.com/jobbole/awesome-java-cn#ancients
 + String https://www.zhihu.com/question/20101840
 + spring boot 
+
   https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/
   后台运行配置 http://blog.didispace.com/spring-boot-run-backend/
 + 学习资料 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#mysql
