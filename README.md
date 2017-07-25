@@ -37,7 +37,6 @@ https://github.com/521xueweihan/git-tips
 + 排错工具 https://yq.aliyun.com/articles/69520?&utm_campaign=sys&utm_medium=market&utm_source=edm_email&msctype=email&mscareaid=cn&mscsiteid=cn&mscmsgid=7130117022400821388&
 + 垃圾回收 http://www.infoq.com/cn/news/2017/03/garbage-collection-algorithm?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage
 + log https://logback.qos.ch/manual/mdc.html#autoMDC
-+ spring cloud http://www.itmuch.com/spring-cloud-sum-eureka/
 + 权限框架比较 http://www.oschina.net/question/1261086_228410
 + https://github.com/jobbole/awesome-java-cn#ancients
 + String https://www.zhihu.com/question/20101840
@@ -45,6 +44,9 @@ https://github.com/521xueweihan/git-tips
 
   - https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/
   - 后台运行配置 http://blog.didispace.com/spring-boot-run-backend/
++ spring cloud 
+  - http://www.itmuch.com/spring-cloud-sum-eureka/
+  - 文档 cn https://springcloud.cc/spring-cloud-dalston.html
 + 学习资料 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#mysql
 
 ## 前端
