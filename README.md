@@ -25,7 +25,9 @@ https://github.com/521xueweihan/git-tips
 - http://blog.csdn.net/a82793510/article/details/53509427
 - http://blog.csdn.net/carrie__yang/article/details/72867962
 - http://blog.leapoahead.com/2015/09/07/user-authentication-with-jwt/
-
++ PDF
+  - https://github.com/JonathanLink/PDFLayoutTextStripper
+  - https://github.com/itext/itextpdf
 + spring 
   https://my.oschina.net/u/3080373/blog/1438733
 
