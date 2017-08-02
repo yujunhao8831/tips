@@ -70,7 +70,7 @@ https://github.com/521xueweihan/git-tips
 https://segmentfault.com/a/1190000008091986
 
 ## 优质翻译
-https://github.com/xitu/gold-miner
++ https://github.com/xitu/gold-miner
 
 ## IDE
 + https://github.com/judasn/IntelliJ-IDEA-Tutorial
