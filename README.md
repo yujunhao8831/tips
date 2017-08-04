@@ -43,7 +43,7 @@ https://github.com/521xueweihan/git-tips
 + https://github.com/jobbole/awesome-java-cn#ancients
 + String https://www.zhihu.com/question/20101840
 + spring boot 
-
+  - Spring Boot启动过程及回调接口汇总 https://segmentfault.com/a/1190000006918229
   - https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/
   - 后台运行配置 http://blog.didispace.com/spring-boot-run-backend/
 + spring cloud 
