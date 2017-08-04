@@ -59,6 +59,7 @@ https://github.com/521xueweihan/git-tips
 + 全栈 http://growth.phodal.com/
 + 前后分离 https://segmentfault.com/a/1190000009329474?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly
 + 动画引擎 http://animejs.com/
++ 时间控件 https://chmln.github.io/flatpickr/
 ## shell 
   - https://github.com/Idnan/bash-guide
   - https://segmentfault.com/a/1190000002564816
