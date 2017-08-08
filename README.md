@@ -62,6 +62,7 @@ https://github.com/521xueweihan/git-tips
 + 时间控件 https://chmln.github.io/flatpickr/
 + 很多小例子 https://github.com/denysdovhan/wtfjs
 + public-apis https://github.com/toddmotto/public-apis
++ d3 https://d3js.org/
 ## shell 
   - https://github.com/Idnan/bash-guide
   - https://segmentfault.com/a/1190000002564816
