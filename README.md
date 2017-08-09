@@ -28,6 +28,7 @@ https://github.com/521xueweihan/git-tips
 + PDF
   - https://github.com/JonathanLink/PDFLayoutTextStripper
   - https://github.com/itext/itextpdf
+  - https://github.com/jmrozanec/pdf-converter
 + spring 
   https://my.oschina.net/u/3080373/blog/1438733
 
@@ -42,7 +43,6 @@ https://github.com/521xueweihan/git-tips
 + 权限框架比较 http://www.oschina.net/question/1261086_228410
 + https://github.com/jobbole/awesome-java-cn#ancients
 + cron-utils https://github.com/jmrozanec/cron-utils-spring
-+ PDF https://github.com/jmrozanec/pdf-converter
 + time https://github.com/jmrozanec/htime
 + String https://www.zhihu.com/question/20101840
 + spring boot 
@@ -66,8 +66,9 @@ https://github.com/521xueweihan/git-tips
 + 很多小例子 https://github.com/denysdovhan/wtfjs
 + public-apis https://github.com/toddmotto/public-apis
 + d3 https://d3js.org/
-+ cron http://shawnchin.github.io/jquery-cron/
-+ cron https://github.com/harrisiirak/cron-parser
++ cron 
+  - http://shawnchin.github.io/jquery-cron/
+  - https://github.com/harrisiirak/cron-parser
 ## shell 
   - https://github.com/Idnan/bash-guide
   - https://segmentfault.com/a/1190000002564816
