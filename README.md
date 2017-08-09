@@ -41,6 +41,9 @@ https://github.com/521xueweihan/git-tips
 + log https://logback.qos.ch/manual/mdc.html#autoMDC
 + 权限框架比较 http://www.oschina.net/question/1261086_228410
 + https://github.com/jobbole/awesome-java-cn#ancients
++ cron-utils https://github.com/jmrozanec/cron-utils-spring
++ PDF https://github.com/jmrozanec/pdf-converter
++ time https://github.com/jmrozanec/htime
 + String https://www.zhihu.com/question/20101840
 + spring boot 
   - Spring Boot启动过程及回调接口汇总 https://segmentfault.com/a/1190000006918229
@@ -63,6 +66,8 @@ https://github.com/521xueweihan/git-tips
 + 很多小例子 https://github.com/denysdovhan/wtfjs
 + public-apis https://github.com/toddmotto/public-apis
 + d3 https://d3js.org/
++ cron http://shawnchin.github.io/jquery-cron/
++ cron https://github.com/harrisiirak/cron-parser
 ## shell 
   - https://github.com/Idnan/bash-guide
   - https://segmentfault.com/a/1190000002564816
