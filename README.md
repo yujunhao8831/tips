@@ -12,6 +12,7 @@ https://github.com/521xueweihan/git-tips
   - http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
   - https://segmentfault.com/q/1010000005054853
   - http://www.codeyyy.com/java/index.html
+  - https://www.oschina.net/translate/hacking-lambda-expressions-in-java
 + 反射工具 https://github.com/ronmamo/reflections
 + restful 
   - https://github.com/aisuhua/restful-api-design-references
