@@ -75,6 +75,7 @@ https://github.com/521xueweihan/git-tips
 + 很多小例子,错误示范等 https://github.com/denysdovhan/wtfjs
 + 代码规范 https://github.com/standard/standard/blob/master/docs/README-zhcn.md
 + 很多小例子,错误示范等 https://github.com/denysdovhan/wtfjs
++ 汇聚了各种文档 http://devdocs.io/
 + cron 
   - http://shawnchin.github.io/jquery-cron/
   - https://github.com/harrisiirak/cron-parser
