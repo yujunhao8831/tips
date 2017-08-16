@@ -46,6 +46,8 @@ https://github.com/521xueweihan/git-tips
 + cron-utils https://github.com/jmrozanec/cron-utils-spring
 + time https://github.com/jmrozanec/htime
 + String https://www.zhihu.com/question/20101840
++ 生产.java源代码 https://github.com/square/javapoet ,可以用来构建一些基础的代码,必须一些CRUD
+
 + spring boot 
   - Spring Boot启动过程及回调接口汇总 https://segmentfault.com/a/1190000006918229
   - https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/
@@ -87,3 +89,7 @@ https://segmentfault.com/a/1190000008091986
 
 ## IDE
 + https://github.com/judasn/IntelliJ-IDEA-Tutorial
+
+## 其他
++ 正则表达式学习 https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md
+
