@@ -2,7 +2,10 @@
 
 https://github.com/521xueweihan/git-tips
 ## java
-+ jackson 字段动态过滤 https://github.com/bohnman/squiggly-filter-jackson
++ jackson 字段动态过滤 
+  - https://github.com/bohnman/squiggly-filter-jackson
+  - https://github.com/narusas/SpringMvcJacksonFilter
+  - https://github.com/shihyuho/jackson-dynamic-filter
 + User-agent-utils http://www.bitwalker.eu/
 + 杂项 https://github.com/pzxwhc/MineKnowContainer
 + swagger 文档 
