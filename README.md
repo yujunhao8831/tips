@@ -79,11 +79,11 @@ https://github.com/521xueweihan/git-tips
   - http://shawnchin.github.io/jquery-cron/
   - https://github.com/harrisiirak/cron-parser
 ## shell 
-  + https://github.com/Idnan/bash-guide
-  + 关于shell和expect和ssh https://segmentfault.com/a/1190000002564816
-  + 小工具集合 https://github.com/alexanderepstein/Bash-Snippets
++ https://github.com/Idnan/bash-guide
++ 关于shell和expect和ssh https://segmentfault.com/a/1190000002564816
++ 小工具集合 https://github.com/alexanderepstein/Bash-Snippets
 ## *nux
-  - https://github.com/aksakalli/gtop
++ https://github.com/aksakalli/gtop
 
 ## 面试资料
 + 面试资料 https://my.oschina.net/hosee/blog/652410
