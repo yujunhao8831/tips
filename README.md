@@ -80,7 +80,7 @@ https://github.com/521xueweihan/git-tips
   - https://github.com/harrisiirak/cron-parser
 ## shell 
   + https://github.com/Idnan/bash-guide
-  + https://segmentfault.com/a/1190000002564816
+  + 关于shell和expect和ssh https://segmentfault.com/a/1190000002564816
   + 小工具集合 https://github.com/alexanderepstein/Bash-Snippets
 ## *nux
   - https://github.com/aksakalli/gtop
