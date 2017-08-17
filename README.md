@@ -56,7 +56,7 @@ https://github.com/521xueweihan/git-tips
   - https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/
   - 后台运行配置 http://blog.didispace.com/spring-boot-run-backend/
   - https://segmentfault.com/l/1500000009515571
-  - https://my.oschina.net/jack90john/blog/1506474
+  - 调度示例 https://my.oschina.net/jack90john/blog/1506474
   
 + spring cloud 
   - http://www.itmuch.com/spring-cloud-sum-eureka/
