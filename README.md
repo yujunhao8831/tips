@@ -52,6 +52,7 @@ https://github.com/521xueweihan/git-tips
 + 生产.java源代码 https://github.com/square/javapoet ,可以用来构建一些基础的代码,必须一些CRUD
 
 + spring boot 
+
   - 调度示例 https://my.oschina.net/jack90john/blog/1506474
   - Spring Boot启动过程及回调接口汇总 https://segmentfault.com/a/1190000006918229
   - https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/
