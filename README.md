@@ -104,4 +104,5 @@ https://segmentfault.com/a/1190000008091986
 
 ## 其他
 + 正则表达式学习 https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md
-
+## 安全
++ https://github.com/Hack-with-Github/Awesome-Hacking
