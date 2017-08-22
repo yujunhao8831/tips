@@ -22,7 +22,9 @@ https://github.com/521xueweihan/git-tips
   - https://www.oschina.net/translate/restful-api-designing-guidelines-the-best-practices?lang=chs&page=1#
   - http://5.course.uprogrammer.cn/restful-with-spring-cn/chapter1/section3.html
 + RESTful文档管理 https://apiary.io/ 
-+ api设计 https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
++ api设计 
+  - https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md
+  - https://github.com/yosriady/api-development-tools
 + JWT 
 - http://www.jianshu.com/p/576dbf44b2ae
 - https://segmentfault.com/q/1010000004537698
