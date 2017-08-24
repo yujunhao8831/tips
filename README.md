@@ -106,3 +106,9 @@ https://segmentfault.com/a/1190000008091986
 + 正则表达式学习 https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md
 ## 安全
 + https://github.com/Hack-with-Github/Awesome-Hacking
+## mac 工具
++ https://github.com/nikitavoloboev/my-mac-os
++ 思维导图 https://mindnode.com/
+
+
+
