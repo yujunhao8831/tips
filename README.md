@@ -53,6 +53,7 @@ https://github.com/521xueweihan/git-tips
 + String https://www.zhihu.com/question/20101840
 + 生产.java源代码 https://github.com/square/javapoet ,可以用来构建一些基础的代码,必须一些CRUD
 + Spring Framework Code Style https://github.com/spring-projects/spring-framework/blob/7ee0abe20d230c782a76fedf5c08524c87747576/src/idea/spring-framework.xml
++ 使用Spring WebSockets聊天应用程序 https://github.com/salmar/spring-websocket-chat
 + spring boot 
   - Spring Boot启动过程及回调接口汇总 https://segmentfault.com/a/1190000006918229
   - https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/
