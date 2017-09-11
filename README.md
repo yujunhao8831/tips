@@ -65,7 +65,9 @@ https://github.com/521xueweihan/git-tips
 + spring cloud 
   - http://www.itmuch.com/spring-cloud-sum-eureka/
   - 文档 https://springcloud.cc/spring-cloud-dalston.html
-  
+
++ 工具类集合 https://jodd.org
+
 + 学习资料 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#mysql
 
 ## 前端
