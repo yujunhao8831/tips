@@ -67,6 +67,7 @@ https://github.com/521xueweihan/git-tips
   - 文档 https://springcloud.cc/spring-cloud-dalston.html
 
 + 工具类集合 https://jodd.org
++ 分布式ID https://docs.mongodb.com/manual/reference/method/ObjectId/
 
 + 学习资料 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#mysql
 
