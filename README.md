@@ -88,6 +88,8 @@ https://github.com/521xueweihan/git-tips
 + cron 
   - http://shawnchin.github.io/jquery-cron/
   - https://github.com/harrisiirak/cron-parser
++ 搭建跨平台桌面应用 https://electron.atom.io/ CN : https://electron.org.cn/  
+
 ## shell 
 + https://github.com/Idnan/bash-guide
 + 关于shell和expect和ssh https://segmentfault.com/a/1190000002564816
