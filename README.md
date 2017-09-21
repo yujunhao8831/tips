@@ -82,7 +82,9 @@ https://github.com/521xueweihan/git-tips
 + public-apis https://github.com/toddmotto/public-apis
 + d3 https://d3js.org/
 + 很多小例子,错误示范等 https://github.com/denysdovhan/wtfjs
-+ 代码规范 https://github.com/standard/standard/blob/master/docs/README-zhcn.md
++ 代码规范 
+  - 1. https://github.com/standard/standard/blob/master/docs/README-zhcn.md
+  - 2. https://github.com/airbnb/javascript
 + 很多小例子,错误示范等 https://github.com/denysdovhan/wtfjs
 + 汇聚了各种文档 http://devdocs.io/
 + cron 
