@@ -122,11 +122,10 @@ https://segmentfault.com/a/1190000008091986
 ## mac 工具
 + https://github.com/nikitavoloboev/my-mac-os
 + 思维导图 https://mindnode.com/
++ 收集了非常好用的Mac应用程序 https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md
 ## VPN
 https://github.com/jlund/streisand/blob/master/README-chs.md
 
-## mac
-+ 收集了非常好用的Mac应用程序 https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md
 
 
 
