@@ -6,6 +6,7 @@ https://github.com/521xueweihan/git-tips
   - https://github.com/bohnman/squiggly-filter-jackson
   - https://github.com/narusas/SpringMvcJacksonFilter
   - https://github.com/shihyuho/jackson-dynamic-filter
++ Json 2 Pojo https://github.com/joelittlejohn/jsonschema2pojo
 + User-agent-utils http://www.bitwalker.eu/
 + 杂项 https://github.com/pzxwhc/MineKnowContainer
 + swagger 文档 
