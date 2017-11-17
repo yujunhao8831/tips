@@ -97,6 +97,7 @@ https://github.com/521xueweihan/git-tips
 + https://github.com/Idnan/bash-guide
 + 关于shell和expect和ssh https://segmentfault.com/a/1190000002564816
 + 小工具集合 https://github.com/alexanderepstein/Bash-Snippets
++ 命令行的艺术 https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
 ## *nux
 + https://github.com/aksakalli/gtop
 
