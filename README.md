@@ -74,6 +74,7 @@ https://github.com/521xueweihan/git-tips
 + 学习资料 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md#mysql
 + 规范? https://github.com/cxxr/better-java/blob/master/README.zh-cn.md
 + 中文分词等 https://github.com/hankcs/HanLP
++ 网页聊天 通信 可以借鉴 https://github.com/mrniko/netty-socketio
 
 ## 前端
 + 库 https://www.awesomes.cn/
