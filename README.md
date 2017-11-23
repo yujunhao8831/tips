@@ -109,7 +109,8 @@ https://github.com/521xueweihan/git-tips
 + https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
 + https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md
 ## git
-https://segmentfault.com/a/1190000008091986
++ https://segmentfault.com/a/1190000008091986
++ https://github.com/oldratlee/translations
 
 ## 优质翻译
 + https://github.com/xitu/gold-miner
