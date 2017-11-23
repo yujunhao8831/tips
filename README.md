@@ -75,6 +75,9 @@ https://github.com/521xueweihan/git-tips
 + 规范? https://github.com/cxxr/better-java/blob/master/README.zh-cn.md
 + 中文分词等 https://github.com/hankcs/HanLP
 + 网页聊天 通信 可以借鉴 https://github.com/mrniko/netty-socketio
++ Java服务器应用程序的应用程序性能监视的开源解决方案 https://github.com/stagemonitor/stagemonitor
+ 
+在GitHub上查看 
 
 ## 前端
 + 库 https://www.awesomes.cn/
