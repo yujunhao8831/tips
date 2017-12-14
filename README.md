@@ -53,7 +53,7 @@ https://github.com/521xueweihan/git-tips
 + cron-utils https://github.com/jmrozanec/cron-utils-spring
 + time https://github.com/jmrozanec/htime
 + String https://www.zhihu.com/question/20101840
-+ 生产.java源代码 https://github.com/square/javapoet ,可以用来构建一些基础的代码,必须一些CRUD
++ 生产.java源代码 https://github.com/square/javapoet ,可以用来构建一些基础的代码,比如一些CRUD
 + Spring Framework Code Style https://github.com/spring-projects/spring-framework/blob/7ee0abe20d230c782a76fedf5c08524c87747576/src/idea/spring-framework.xml
 + 使用Spring WebSockets聊天应用程序 https://github.com/salmar/spring-websocket-chat
 + Spring Cache https://my.oschina.net/u/3080373/blog/1524728
@@ -76,6 +76,9 @@ https://github.com/521xueweihan/git-tips
 + 中文分词等 https://github.com/hankcs/HanLP
 + 网页聊天 通信 可以借鉴 https://github.com/mrniko/netty-socketio
 + Java服务器应用程序的应用程序性能监视的开源解决方案 https://github.com/stagemonitor/stagemonitor
++ Hibernate Validator 
+  - https://www.ibm.com/developerworks/cn/java/j-lo-jsr303/
+  - https://www.cnblogs.com/hujihon/p/5357481.html
  
 在GitHub上查看 
 
