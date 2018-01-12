@@ -65,7 +65,7 @@ https://github.com/521xueweihan/git-tips
   - 后台运行配置 http://blog.didispace.com/spring-boot-run-backend/
   - https://segmentfault.com/l/1500000009515571
   - 调度示例 https://my.oschina.net/jack90john/blog/1506474
-  
+  - 配置加密 https://github.com/ulisesbocchio/jasypt-spring-boot
 + spring cloud 
   - http://www.itmuch.com/spring-cloud-sum-eureka/
   - 文档 https://springcloud.cc/spring-cloud-dalston.html
