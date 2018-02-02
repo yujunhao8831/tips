@@ -17,6 +17,7 @@ https://github.com/521xueweihan/git-tips
   - https://segmentfault.com/q/1010000005054853
   - http://www.codeyyy.com/java/index.html
   - https://www.oschina.net/translate/hacking-lambda-expressions-in-java
+  - Java8代码片段 https://github.com/biezhi/30-seconds-of-java8
 + 反射工具 https://github.com/ronmamo/reflections
 + restful 
   - https://github.com/aisuhua/restful-api-design-references
