@@ -82,7 +82,7 @@ https://github.com/521xueweihan/git-tips
 + Hibernate Validator 
   - https://www.ibm.com/developerworks/cn/java/j-lo-jsr303/
   - https://www.cnblogs.com/hujihon/p/5357481.html
- 
++ 基础知识(用于面试也挺好) https://github.com/crossoverJie/JCSprout
 在GitHub上查看 
 
 ## 前端
