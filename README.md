@@ -11,6 +11,7 @@ https://github.com/521xueweihan/git-tips
 + 杂项 https://github.com/pzxwhc/MineKnowContainer
 + swagger 文档 
   - https://github.com/swagger-api/swagger-core/wiki/Annotations#apimodel http://springfox.github.io/springfox/docs/current/
++ https://www.demo2s.com/java/java.html
 + java 8 
   - https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/
   - http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
